@@ -2,7 +2,7 @@ import random
 weapons = {
     "Netrunner" : ["smart guns", "pistols", "snipers", "precision rifles", "thrown melee"],
     "Solo" :["shotguns", "lmgs", "blunt weapons"],
-    "Edgerunner": ["assault rifles", "submachine guns", "bladed melee"]
+    "Edgerunner": ["assault rifles", "submachine guns", "blades"]
 }
 
 def generate_lifepath():
