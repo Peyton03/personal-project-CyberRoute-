@@ -42,9 +42,9 @@ def main():
         print("Recommended Operating CyberWare: ['Cyberdeck', 'Tetratronic Rippler']")
         print("Recommended arm CyberWare: ['Monowire', 'Gorilla Arms']\n")
         print("The GOD of the net, I recommend you to use a stealth and hacking playstle.")
-        print("Recommended attributes: Intelligence and Cool would be my main two with either tech or body as a strong third. Body for if you want to be immortal and plan on using Monowire as a primary weapon.")
+        print("Recommended attributes: Intelligence and Cool would be my main two with either tech or body as a strong third.")
         print("Body for if you want to be immortal and plan on using Monowire as a primary weapon.")
-        print("Tech if you want to go all in on cyberware and do the most damage or of tech weapons are somthing you grow to love.\n")
+        print("Tech if you want to go all in on cyberware and do the most damage or if tech weapons are somthing you grow to love.\n")
     elif build == "Solo":
         print("Recommended Operating CyberWare: ['Berserk', 'Chrome' 'Compressors']")
         print("Recommend Arm CyberWare: ['Gorilla Arms', 'projectile launch system']\n")
